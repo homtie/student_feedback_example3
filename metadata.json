@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse Feedback",
+  "description": "A college course feedback and student-faculty evaluation platform with interactive multi-step reviews, journey progress tracking, and faculty analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
